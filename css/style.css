@@ -43,7 +43,7 @@ a {
 .section-header:hover .line{
     width: 150px;
 }
-/* HEADER................................................................................................... */
+/* HEADER*/
 header {
     padding: 40px 0;
 }
@@ -124,7 +124,7 @@ transform-origin: left;
     font-size: 13px;
     bottom: -4px;
 }
-/* DROPDOWN.................................................................................................... */
+/* DROPDOWN*/
 .dropdown{
 position: relative;
 }
